@@ -1,7 +1,10 @@
 # Stack Labs 2 Squad Scikit-Learn
 Projeto Stack Labs 2 - Squad Scikit-Learn
 
+graci-py-patch-1
 
+
+main
 **Paticipantes**: 
 - Allan Braquiel
 - Graciele Oliveira dos Santos
